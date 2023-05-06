@@ -1,0 +1,9 @@
+setup.py
+pykmsbot/__init__.py
+pykmsbot/rdBot.py
+pykmsbot/wbs.py
+pykmsbot.egg-info/PKG-INFO
+pykmsbot.egg-info/SOURCES.txt
+pykmsbot.egg-info/dependency_links.txt
+pykmsbot.egg-info/requires.txt
+pykmsbot.egg-info/top_level.txt
